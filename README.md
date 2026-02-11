@@ -10,10 +10,10 @@ I build products and teams that leverage AI and data to transform how people mak
 
 I've spent my career building products and scaling teams across fintech:
 
-- **HouseCanary** (2019-2026): Led product strategy and AI-driven innovation in real estate intelligence as President and Chief Product Officer
+- **HouseCanary** (2019-2026): President and Chief Product Officer; led product strategy and AI-driven innovation in real estate intelligence as 
 - **EquityZen** (2015-2019): VP of Product and Growth; scaled transaction volume 16x and user base 8x as an early employee
-- **Sliced Investing** (2014-2015): COO managing operations and product strategy
-- **J.P. Morgan** (2007-2014): VP heading Business Management for the Alternative Investments Group
+- **Sliced Investing** (2014-2015): Chief Operating Officer; managed operations and product strategy
+- **J.P. Morgan** (2007-2014): Vice President; Head of Business Management (aka Chief of Staff) for the Alternative Investments Group
 
 ## What I Care About
 
