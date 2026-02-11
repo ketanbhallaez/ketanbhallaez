@@ -19,7 +19,7 @@ I've spent my career building products and scaling teams across fintech:
 
 I thrive at the intersection of product management, growth, and operations. I'm passionate about building cross-functional teams, using data to drive decisions, and shipping products that deliver measurable impact for users and businesses.
 
-## Get In Touch
+## More Info
 
 - 🌐 [ketanbhalla.com](https://www.ketanbhalla.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ketanbhalla/)
