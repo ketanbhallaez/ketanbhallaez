@@ -1,6 +1,6 @@
 # Hi, I'm Ketan Bhalla 👋
 
-I'm a product and operations leader who builds transformative companies from early stage through scale. Currently based in Boulder, Colorado.
+I'm a product and operations leader who builds transformative companies from early stage through scale. Currently based in Boulder County, Colorado.
 
 ## What I Do
 
